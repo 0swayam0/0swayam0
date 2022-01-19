@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @0swayam0
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning JavaScript, HTML and CSS
-- 📫 How to reach me via mail- swayammahajan27@gmail.com
+- 📫 How to reach me via mail- rageassasin7@gmail.com
